@@ -85,3 +85,8 @@ COME aims to provide a low-cost, scalable, and intelligent alternative using mod
 r, embedded, or IoT roles specifically
 
 # The developed U-Net model achieved 86.5% segmentation accuracy, while the EfficientNetB0-based classifier achieved 92% classification accuracy when tested on 50 labeled samples using the correct prediction metrics.
+
+
+## 🎥 Project Demo
+
+[![COME Project Demo]]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/ag4uIiE48iI))
