@@ -89,4 +89,4 @@ r, embedded, or IoT roles specifically
 
 ## 🎥 Project Demo
 
-[![COME Project Demo](assets/demo.png)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/ag4uIiE48iI))
+[![COME Project Demo](demo/demo.png)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/ag4uIiE48iI))
